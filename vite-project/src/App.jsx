@@ -1,6 +1,6 @@
 import React from "react";
 import { useState } from "react";
-import FoodData from "./FoodData.js";
+import FoodData from "../resources/FoodData.js";
 import Search from "./Component/Search";
 import Foodbox from "./Component/Foodbox.jsx";
 
